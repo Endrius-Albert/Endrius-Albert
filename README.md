@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hello! I'm Endrius Alberto
 
-<!--
-**Endrius-Albert/Endrius-Albert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Computer Science Bachelor’s student** * in Dublin, with a strong passion for technology and continuous learning.  
+My journey in IT has been guided by curiosity and the goal of building a solid career in the field.  
 
-Here are some ideas to get you started:
+🎓 I obtained the **AWS Cloud Practitioner certification** and earned the **AWS Educate Introduction to Generative AI badge**, in addition to completing a **DevOps Course**, where I gained practical exposure to CI/CD, automation, and cloud workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Objective
+🌍 Preparing to start applying for **IT internships**, with the goal of gaining **practical experience** and developing my skills across different areas of technology.
+
+---
+
+## 🛠️ Skills & Technologies
+- ☁️ **Cloud & IT:** AWS (Cloud Practitioner), basic networking  
+- 🔧 **DevOps:** CI/CD, automation, cloud workflows  
+- 💻 **Programming & Web Development:** Java, JavaScript, Python, HTML5, CSS3  
+- 🛠️ **Tools & Platforms:** Git, GitHub, Docker, Kubernetes  
+- 📚 **Concepts:** Programming logic, algorithms, problem-solving, object-oriented programming, Cloud  
+- 🌱 **Currently Learning:** Data structures and algorithms, Web development (front-end & back-end), Artificial Intelligence  
+
+---
+
+## 🌱 Projects Under Development
+📌 Cloud labs and exercises (AWS)  
+📌 Java and Python programming exercises  
+📌 IT and software development portfolio projects  
+
+---
+
+## 🏅 Certifications & Badges
+- ✅ **AWS Cloud Practitioner**  
+- 🎓 **AWS Educate: Introduction to Generative AI**  
+  [![Badge](https://www.credly.com/badges/40d88b13-8565-44a8-9960-9e84f5ae162a)  
+
+---
+
+## ⚡ Personal Interests
+- 🏐 Playing volleyball and enjoying outdoor running  
+- 🤖 Exploring AI, software engineering, and emerging IT technologies  
+- ☕ Coffee lover & curious learner  
+
+---
+
+## 📫 How to Reach Me
+- 💼 **LinkedIn:** 
+- 📧 **Email:** 
+
+---
+
+✨ Thanks for visiting my profile! Always open to connect and share knowledge. 
