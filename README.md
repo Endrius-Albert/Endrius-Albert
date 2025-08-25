@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Endrius Alberto
 
-I’m a **Computer Science Bachelor’s student** * in Dublin, with a strong passion for technology and continuous learning.  
+I’m a **Computer Science Bachelor’s student**  in Dublin, with a strong passion for technology and continuous learning.  
 My journey in IT has been guided by curiosity and the goal of building a solid career in the field.  
 
 🎓 I obtained the **AWS Cloud Practitioner certification** and earned the **AWS Educate Introduction to Generative AI badge**, in addition to completing a **DevOps Course**, where I gained practical exposure to CI/CD, automation, and cloud workflows.
@@ -8,7 +8,7 @@ My journey in IT has been guided by curiosity and the goal of building a solid c
 ---
 
 ## 🎯 Objective
-🌍 Preparing to start applying for **IT internships**, with the goal of gaining **practical experience** and developing my skills across different areas of technology.
+🌍 Seeking to start applying for **IT internships**, with the goal of gaining **practical experience** and developing my skills across different areas of technology.
 
 ---
 
@@ -32,7 +32,6 @@ My journey in IT has been guided by curiosity and the goal of building a solid c
 ## 🏅 Certifications & Badges
 - ✅ **AWS Cloud Practitioner**  
 - 🎓 **AWS Educate: Introduction to Generative AI**  
-  [![Badge](https://www.credly.com/badges/40d88b13-8565-44a8-9960-9e84f5ae162a)  
 
 ---
 
