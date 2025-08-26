@@ -8,7 +8,7 @@ My journey in IT has been guided by curiosity and the goal of building a solid c
 ---
 
 ## 🎯 Objective
-🌍 Seeking to start applying for **IT internships**, with the goal of gaining **practical experience** and developing my skills across different areas of technology.
+🌍 Actively seeking IT internship opportunities to apply my knowledge, gain hands-on experience, and further develop my skills in cloud computing, DevOps, programming, and emerging technologies while contributing to innovative projects.
 
 ---
 
@@ -17,7 +17,7 @@ My journey in IT has been guided by curiosity and the goal of building a solid c
 - 🔧 **DevOps:** CI/CD, automation, cloud workflows  
 - 💻 **Programming & Web Development:** Java, JavaScript, Python, HTML5, CSS3  
 - 🛠️ **Tools & Platforms:** Git, GitHub, Docker, Kubernetes  
-- 📚 **Concepts:** Programming logic, algorithms, problem-solving, object-oriented programming, Cloud  
+- 📚 **Concepts:** Programming Logic, Algorithms, Problem-Solving, Object-Oriented Programming, Cloud  
 - 🌱 **Currently Learning:** Data structures and algorithms, Web development (front-end & back-end), Artificial Intelligence  
 
 ---
