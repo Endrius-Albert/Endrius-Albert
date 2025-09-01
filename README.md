@@ -3,18 +3,18 @@
 I’m a **Computer Science Bachelor’s student**  in Dublin, with a strong passion for technology and continuous learning.  
 My journey in IT has been guided by curiosity and the goal of building a solid career in the field.  
 
-🎓 I obtained the **AWS Cloud Practitioner certification** and earned the **AWS Educate Introduction to Generative AI badge**, in addition to completing a **DevOps Course**, where I gained practical exposure to CI/CD, automation, and cloud workflows.
+🎓 I obtained the **AWS Cloud Practitioner certification** and COMPLETED earned the **AWS Educate Introduction to Generative AI badge**, in addition to completing a **DevOps Course**, where I gained practical exposure to CI/CD, automation, and cloud workflows.
 
 ---
 
 ## 🎯 Objective
-🌍 Actively seeking IT internship opportunities to apply my knowledge, gain hands-on experience, and further develop my skills in cloud computing, DevOps, programming, and emerging technologies while contributing to innovative projects.
+🌍 Actively seeking IT internship opportunities to apply my knowledge, gain hands-on experience, and...further develop my skills in **object-oriented programming, software engineering, cloud computing, DevOps, and emerging technologies** while contributing to innovative projects.
 
 ---
 
 ## 🛠️ Skills & Technologies
-- ☁️ **Cloud & IT:** AWS (Cloud Practitioner), basic networking  
-- 🔧 **DevOps:** CI/CD, automation, cloud workflows  
+- ☁️ **Cloud & IT:** AWS (Cloud Practitioner), Basic Networking  
+- 🔧 **DevOps:** CI/CD, API, Automation, Cloud Workflows  
 - 💻 **Programming & Web Development:** Java, JavaScript, Python, HTML5, CSS3  
 - 🛠️ **Tools & Platforms:** Git, GitHub, Docker, Kubernetes  
 - 📚 **Concepts:** Programming Logic, Algorithms, Problem-Solving, Object-Oriented Programming, Cloud  
@@ -34,7 +34,7 @@ My journey in IT has been guided by curiosity and the goal of building a solid c
 - Console-based application simulating a supermarket system with multiple product types and trolley management.  
 - Shows **object-oriented design and problem-solving skills**.
 
-### 📌 [Name Transformer](https://github.com/Endrius-Albert/NameTransformer)
+### 📌 [Name Transformer](https://github.com/Endrius-Albert/Name_Transformer)
 - **Technologies:** Java, String manipulation, modular design  
 - Simple console program transforming user-provided names with various string operations.  
 - Demonstrates **basic Java programming, loops, methods, and input validation**.
