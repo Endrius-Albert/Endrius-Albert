@@ -3,7 +3,7 @@
 I’m a **Computer Science Bachelor’s student**  in Dublin, with a strong passion for technology and continuous learning.  
 My journey in IT has been guided by curiosity and the goal of building a solid career in the field.  
 
-🎓 I obtained the **AWS Cloud Practitioner certification** and COMPLETED earned the **AWS Educate Introduction to Generative AI badge**, in addition to completing a **DevOps Course**, where I gained practical exposure to CI/CD, automation, and cloud workflows.
+🎓 I obtained the **AWS Cloud Practitioner certification**, in addition to completing a **DevOps Course**, where I gained practical exposure to CI/CD, automation, and cloud workflows.
 
 ---
 
@@ -18,7 +18,7 @@ My journey in IT has been guided by curiosity and the goal of building a solid c
 - 💻 **Programming & Web Development:** Java, JavaScript, Python, HTML5, CSS3  
 - 🛠️ **Tools & Platforms:** Git, GitHub, Docker, Kubernetes  
 - 📚 **Concepts:** Programming Logic, Algorithms, Problem-Solving, Object-Oriented Programming, Cloud  
-- 🌱 **Currently Learning:** Data structures and algorithms, Web development (front-end & back-end), Artificial Intelligence  
+- 🌱 **Currently Learning:** Data structures and algorithms, Web development (front-end & back-end)
 
 ---
 
