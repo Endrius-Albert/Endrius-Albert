@@ -22,16 +22,29 @@ My journey in IT has been guided by curiosity and the goal of building a solid c
 
 ---
 
-## 🌱 Projects Under Development
-📌 Cloud labs and exercises (AWS)  
-📌 Java and Python programming exercises  
-📌 IT and software development portfolio projects  
+## 💻 Projects
+
+### 📌 [Book Catalog API](https://github.com/Endrius-Albert/bookcatalog)
+- **Technologies:** Python, Django REST, PostgreSQL, Docker, GitHub Actions, Kubernetes, Helm, ArgoCD  
+- Full CRUD API for books with automated testing, containerization, CI/CD, cloud deployment, and GitOps workflow.  
+- Demonstrates **DevOps, cloud infrastructure, and modern backend development**.
+
+### 📌 [Supermarket Shopping System](https://github.com/Endrius-Albert/OOP-final-project)
+- **Technologies:** Java, OOP, inheritance, polymorphism, exception handling  
+- Console-based application simulating a supermarket system with multiple product types and trolley management.  
+- Shows **object-oriented design and problem-solving skills**.
+
+### 📌 [Name Transformer](https://github.com/Endrius-Albert/NameTransformer)
+- **Technologies:** Java, String manipulation, modular design  
+- Simple console program transforming user-provided names with various string operations.  
+- Demonstrates **basic Java programming, loops, methods, and input validation**.
 
 ---
 
 ## 🏅 Certifications & Badges
 - ✅ **AWS Cloud Practitioner**  
-- 🎓 **AWS Educate: Introduction to Generative AI**  
+- 🎓 **AWS Educate: Introduction to Generative AI**
+- ⚡ **DevOps Course: CI/CD, automation, cloud workflows**
 
 ---
 
@@ -48,4 +61,5 @@ My journey in IT has been guided by curiosity and the goal of building a solid c
 
 ---
 
-✨ Thanks for visiting my profile! Always open to connect and share knowledge. 
+💡 Check out my projects to see my **hands-on experience in OOP Programming, DevOps, and Cloud technologies!**
+
