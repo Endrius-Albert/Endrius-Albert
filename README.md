@@ -56,8 +56,8 @@ My journey in IT has been guided by curiosity and the goal of building a solid c
 ---
 
 ## 📫 How to Reach Me
-- 💼 **LinkedIn:** 
-- 📧 **Email:** 
+- 💼 **LinkedIn:** www.linkedin.com/in/endrius-noronha-884049382
+- 📧 **Email:** endriusamnoronha@gmail.com
 
 ---
 
